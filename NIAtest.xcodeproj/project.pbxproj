@@ -16,6 +16,9 @@
 		3E5DAF701E75B4170001AA05 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E5DAF6E1E75B4170001AA05 /* LaunchScreen.storyboard */; };
 		3E5DAF7B1E75B4170001AA05 /* NIAtestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E5DAF7A1E75B4170001AA05 /* NIAtestTests.swift */; };
 		3E5DAF861E75B4170001AA05 /* NIAtestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E5DAF851E75B4170001AA05 /* NIAtestUITests.swift */; };
+		3EA6F9941E7742290023C4D2 /* niaLogoGitNew.png in Resources */ = {isa = PBXBuildFile; fileRef = 3EA6F9911E7742290023C4D2 /* niaLogoGitNew.png */; };
+		3EA6F9951E7742290023C4D2 /* niaLogoGitNew@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3EA6F9921E7742290023C4D2 /* niaLogoGitNew@2x.png */; };
+		3EA6F9961E7742290023C4D2 /* niaLogoGitNew@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3EA6F9931E7742290023C4D2 /* niaLogoGitNew@3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +54,9 @@
 		3E5DAF811E75B4170001AA05 /* NIAtestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NIAtestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3E5DAF851E75B4170001AA05 /* NIAtestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NIAtestUITests.swift; sourceTree = "<group>"; };
 		3E5DAF871E75B4170001AA05 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3EA6F9911E7742290023C4D2 /* niaLogoGitNew.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = niaLogoGitNew.png; sourceTree = "<group>"; };
+		3EA6F9921E7742290023C4D2 /* niaLogoGitNew@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "niaLogoGitNew@2x.png"; sourceTree = "<group>"; };
+		3EA6F9931E7742290023C4D2 /* niaLogoGitNew@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "niaLogoGitNew@3x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +113,9 @@
 				3E4308481E773CEF009BAD30 /* NewBranchFile.swift */,
 				3E5DAF691E75B4170001AA05 /* Main.storyboard */,
 				3E5DAF6C1E75B4170001AA05 /* Assets.xcassets */,
+				3EA6F9911E7742290023C4D2 /* niaLogoGitNew.png */,
+				3EA6F9921E7742290023C4D2 /* niaLogoGitNew@2x.png */,
+				3EA6F9931E7742290023C4D2 /* niaLogoGitNew@3x.png */,
 				3E5DAF6E1E75B4170001AA05 /* LaunchScreen.storyboard */,
 				3E5DAF711E75B4170001AA05 /* Info.plist */,
 			);
@@ -243,7 +252,10 @@
 			files = (
 				3E5DAF701E75B4170001AA05 /* LaunchScreen.storyboard in Resources */,
 				3E5DAF6D1E75B4170001AA05 /* Assets.xcassets in Resources */,
+				3EA6F9951E7742290023C4D2 /* niaLogoGitNew@2x.png in Resources */,
 				3E5DAF6B1E75B4170001AA05 /* Main.storyboard in Resources */,
+				3EA6F9941E7742290023C4D2 /* niaLogoGitNew.png in Resources */,
+				3EA6F9961E7742290023C4D2 /* niaLogoGitNew@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
