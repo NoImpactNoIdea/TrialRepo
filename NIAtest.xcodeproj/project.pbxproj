@@ -193,7 +193,7 @@
 				TargetAttributes = {
 					3E5DAF611E75B4170001AA05 = {
 						CreatedOnToolsVersion = 8.2;
-						DevelopmentTeam = 6DMD9Z2A89;
+						DevelopmentTeam = 9557QFEWM3;
 						ProvisioningStyle = Automatic;
 					};
 					3E5DAF751E75B4170001AA05 = {
@@ -415,7 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 6DMD9Z2A89;
+				DEVELOPMENT_TEAM = 9557QFEWM3;
 				INFOPLIST_FILE = NIAtest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.noImpactApps.NIAtest;
@@ -428,7 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 6DMD9Z2A89;
+				DEVELOPMENT_TEAM = 9557QFEWM3;
 				INFOPLIST_FILE = NIAtest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.noImpactApps.NIAtest;
