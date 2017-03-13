@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3E4308471E771396009BAD30 /* SecondController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E4308461E771396009BAD30 /* SecondController.swift */; };
+		3E4308491E773CEF009BAD30 /* NewBranchFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E4308481E773CEF009BAD30 /* NewBranchFile.swift */; };
 		3E5DAF661E75B4170001AA05 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E5DAF651E75B4170001AA05 /* AppDelegate.swift */; };
 		3E5DAF681E75B4170001AA05 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E5DAF671E75B4170001AA05 /* ViewController.swift */; };
 		3E5DAF6B1E75B4170001AA05 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E5DAF691E75B4170001AA05 /* Main.storyboard */; };
@@ -36,6 +37,7 @@
 
 /* Begin PBXFileReference section */
 		3E4308461E771396009BAD30 /* SecondController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondController.swift; sourceTree = "<group>"; };
+		3E4308481E773CEF009BAD30 /* NewBranchFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewBranchFile.swift; sourceTree = "<group>"; };
 		3E5DAF621E75B4170001AA05 /* NIAtest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NIAtest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3E5DAF651E75B4170001AA05 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3E5DAF671E75B4170001AA05 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				3E5DAF6C1E75B4170001AA05 /* Assets.xcassets */,
 				3E5DAF6E1E75B4170001AA05 /* LaunchScreen.storyboard */,
 				3E5DAF711E75B4170001AA05 /* Info.plist */,
+				3E4308481E773CEF009BAD30 /* NewBranchFile.swift */,
 			);
 			path = NIAtest;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 			files = (
 				3E4308471E771396009BAD30 /* SecondController.swift in Sources */,
 				3E5DAF681E75B4170001AA05 /* ViewController.swift in Sources */,
+				3E4308491E773CEF009BAD30 /* NewBranchFile.swift in Sources */,
 				3E5DAF661E75B4170001AA05 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
