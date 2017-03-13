@@ -16,5 +16,7 @@ class SecondController : UIViewController {
         super.viewDidLoad()
         
         print("second controller")
+        
+        print("next message dude")
     }
 }
