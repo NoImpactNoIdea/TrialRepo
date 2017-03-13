@@ -104,11 +104,11 @@
 				3E5DAF651E75B4170001AA05 /* AppDelegate.swift */,
 				3E5DAF671E75B4170001AA05 /* ViewController.swift */,
 				3E4308461E771396009BAD30 /* SecondController.swift */,
+				3E4308481E773CEF009BAD30 /* NewBranchFile.swift */,
 				3E5DAF691E75B4170001AA05 /* Main.storyboard */,
 				3E5DAF6C1E75B4170001AA05 /* Assets.xcassets */,
 				3E5DAF6E1E75B4170001AA05 /* LaunchScreen.storyboard */,
 				3E5DAF711E75B4170001AA05 /* Info.plist */,
-				3E4308481E773CEF009BAD30 /* NewBranchFile.swift */,
 			);
 			path = NIAtest;
 			sourceTree = "<group>";
