@@ -19,4 +19,13 @@ class SecondController : UIViewController {
         
         print("next message dude")
     }
+    
+    
+    func thisIsNew() {
+        
+        
+        print("yup")
+    }
+    
+    
 }
