@@ -19,6 +19,8 @@ class ViewController: UIViewController {
         print("second trial")
         
         addViews()
+        
+        print("this was just aded since my last commit dude")
     
     }
     
